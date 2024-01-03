@@ -1,21 +1,3 @@
-# v1.2 
-Short Circuit Evaulations setting is now applied correctly
-Fixed auto updater
-Fixed version manager
-
-Download: https://github.com/KuromeSan/GayMaker-Studio/releases/download/v1.2/GayMaker-Studio.1.2.zip 
-
-# v1.1    
-Added version manager - now you can use any verison of GMS1.4 you want    
-Updated default version to 1.4.9999   
-Fixed a bug where changing the project wouldnt update the preview.   
-Fixed a bug where if you never opened "Global Game Settings" in GameMaker    
-Then GayMaker would crash (IT WAS A STRANGE PARSER DIFFERNTAL xD)    
-See issue [#9 on GayMaker](https://bitbucket.org/SilicaAndPina/gaymaker/issues/9/global-game-settings)    
-Added an update-checker it'll ask you if you want to update when a new update is avalible.          
-
-Download: https://bitbucket.org/SilicaAndPina/gaymaker-studio/downloads/GayMaker-Studio%201.1.zip    
-
 # v1.0
 Inital Release!   
 
@@ -23,7 +5,7 @@ Download: https://bitbucket.org/SilicaAndPina/gaymaker-studio/downloads/GayMaker
      
 #GayMaker: Studio
 
-Homebrew GM:S Export tool (Based off the original [GayMaker Tool for PSVita](https://bitbucket.org/SilicaAndPina/gaymaker))
+Homebrew GM:S Export tool (Based off the original [GayMaker Tool for PSVita](https://silica.codes/Li/gaymaker))
 
 Run the program. and browse to a GameMaker Studio project file (.gmx).
 you can also change the images, Title. and TitleID and then your game will be 
@@ -34,13 +16,6 @@ Packages are created using LibOrbisPkg, No changes made to the original source o
 However some snippits where taken from the PkgEditor and changed to not read from clipboard / drag n drop  
 
 Please show me any games you make with it! (though, please note i wont be too interested unless a girl dies)
-
-#Shaders
-When you compile a project that uses Shaders for the first time. you'll be prompted to browse to 'orbis-wave-psslc.exe'
-This file will then be placed into the GayMaker: Studio install folder and you wont have to do it again after that.
-Shaders will compile into the GXP format. which will then work on the console itself.
-
-For *reasons*, i will not provide a link to orbis-wave-psslc.exe
 
 
 # Controller Mapping 
@@ -81,7 +56,4 @@ https://bitbucket.org/SilicaAndPina/gm-shb
 
 # Credits  
 Thanks YoYoGames for GameMaker, "YOYO_DEV_ENABLE", and having a unsecured CDN    
-Thanks To the devs of DnSpy for indirectly making this possible ;)   
-Thanks To MaxTon for [LibOrbisPkg](https://github.com/maxton/LibOrbisPkg)   
-Thanks To ignacio1420 and Nagato for Testing!    
-Thanks To flat_z for [make_fself.py](https://twitter.com/flat_z/status/954856357664100354)
+Thanks To Sony for some tools i guess.
