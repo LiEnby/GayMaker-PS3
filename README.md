@@ -1,21 +1,17 @@
 # v1.0
 Inital Release!   
 
-Download: https://bitbucket.org/SilicaAndPina/gaymaker-studio/downloads/GayMaker-Studio.zip     
+Download: https://silica.codes/Li/GayMaker-PS3/releases/download/v1.0/GayMaker-PS3.zip    
      
-#GayMaker: Studio
+#GayMaker: PS3
 
 Homebrew GM:S Export tool (Based off the original [GayMaker Tool for PSVita](https://silica.codes/Li/gaymaker))
 
 Run the program. and browse to a GameMaker Studio project file (.gmx).
 you can also change the images, Title. and TitleID and then your game will be 
-"compiled" for PS4 and saved as a PKG to whereever you choose to save it
+"compiled" for PS3 and saved as a PKG to whereever you choose to save it
 
-All projects are compiled using GameMaker 1.4.1804 - the latest version that works on 5.05  
-Packages are created using LibOrbisPkg, No changes made to the original source of the Libary.  
-However some snippits where taken from the PkgEditor and changed to not read from clipboard / drag n drop  
-
-Please show me any games you make with it! (though, please note i wont be too interested unless a girl dies)
+Please show me any games you make with it!
 
 
 # Controller Mapping 
