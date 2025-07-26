@@ -14,7 +14,7 @@ namespace GayMaker_PS3
 {
     public partial class GayMakerPS3 : Form
     {
-        public String CurrentVerison = "1.0";
+        public String CurrentVerison = "1.1";
         bool HasShaders = false;
 
         public GayMakerPS3()
