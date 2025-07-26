@@ -1,1 +1,1 @@
-1.1~https://silica.codes/GameMakerReverse/GayMaker-PS3/releases/download/v1.1/GayMaker-PS3.zip
+1.1~https://github.com/LiEnby/GayMaker-PS3/releases/download/v1.1/GayMaker-PS3.zip
