@@ -24,7 +24,7 @@ namespace GayMaker_PS3
         {
             WebClient wc = new WebClient();
             wc.CachePolicy = new RequestCachePolicy(RequestCacheLevel.NoCacheNoStore);
-            String UpdateString = wc.DownloadString("https://bitbucket.org/SilicaAndPina/gaymaker-studio/raw/master/latest.md");
+            String UpdateString = wc.DownloadString("https://raw.githubusercontent.com/LiEnby/GayMaker-PS3/refs/heads/main/latest.md");
             String[] Data = UpdateString.Split('~');
             String UpdateUrl = Data[1];
             wc.Dispose();
