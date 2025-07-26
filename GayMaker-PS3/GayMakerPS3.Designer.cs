@@ -117,9 +117,9 @@
             this.GameSettings.Controls.Add(this.browseProject);
             this.GameSettings.Controls.Add(this.projectPath);
             this.GameSettings.Controls.Add(this.label2);
-            this.GameSettings.Location = new System.Drawing.Point(968, 25);
+            this.GameSettings.Location = new System.Drawing.Point(981, 25);
             this.GameSettings.Name = "GameSettings";
-            this.GameSettings.Size = new System.Drawing.Size(368, 301);
+            this.GameSettings.Size = new System.Drawing.Size(355, 301);
             this.GameSettings.TabIndex = 7;
             // 
             // label8

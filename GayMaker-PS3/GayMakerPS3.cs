@@ -269,7 +269,7 @@ namespace GayMaker_PS3
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 Image img = new Bitmap(openFileDialog1.FileName);
-                if (img.Height == 320 && img.Width == 176)
+                if (img.Width == 320 && img.Height == 176)
                 {
                     IconPreview.BackgroundImage.Dispose();
                     IconPreview2.BackgroundImage.Dispose();
